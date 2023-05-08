@@ -161,7 +161,7 @@ After Simulation:
 ![exp3a](https://user-images.githubusercontent.com/117974950/236830982-7267ab08-e6b3-45cc-a40e-ecd2f78e60f8.png)
 
 
-![exp3c](https://user-images.githubusercontent.com/117974950/236830995-7cc4b3bb-1441-46bf-a2bd-ea30e5fdefdc.png)
+![exp3d](https://user-images.githubusercontent.com/117974950/236831645-ce7af705-46da-4f05-ad36-d48346675a7a.png)
 
 
 
